@@ -18,4 +18,4 @@ Each section is written by a different team member.
 <!-- [Team Member 2 Name] will write this section -->
 
 ## NLP
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [Samuel Muthama] will write this section -->
