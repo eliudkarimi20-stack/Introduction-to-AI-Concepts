@@ -15,7 +15,9 @@ Each section is written by a different team member.
 <!-- [Eliud Karimi] will write this section -->
 
 ## Neaural Networks
-<!-- [Team Member 2 Name] will write this section -->
+<!-- [Don Kamau] will write this section -->
 
 ## NLP
 <!-- [Samuel Muthama] will write this section -->
+## Generative AI
+<!-- [Okutoi Brown] will write this section -->
