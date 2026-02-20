@@ -7,7 +7,7 @@
   this basically refers to models that create new contents
 
   
- **Gen ai uses**
+## **Gen ai uses**
 
  
     -education
@@ -32,7 +32,7 @@
    **cons**
    
    
-   -loss of jobs
-   -bias and fairness
-   -loss of privacy
-   -hallucinations
+     -loss of jobs
+     -bias and fairness
+     -loss of privacy
+    -hallucinations
