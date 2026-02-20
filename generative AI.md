@@ -1,4 +1,4 @@
-## **Introduction to AI conceps**
+## **Introduction to AI concepts**
 
 
 **Generative AI**
@@ -23,7 +23,7 @@
 
   **pros and cons**
 
-       **pros**
+   **pros**
     
       - efficiancy and speed
       - availability
