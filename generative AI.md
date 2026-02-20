@@ -5,7 +5,11 @@
 
 
   this basically refers to models that create new contents
+
+  
  *Gen ai uses*
+
+ 
     -education
     -healthcare
     -marketing
