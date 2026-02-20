@@ -1,4 +1,4 @@
-##**Introduction to AI conceps**
+**Introduction to AI conceps**
 
 
 **Generative AI**
@@ -7,7 +7,7 @@
   this basically refers to models that create new contents
 
   
- *Gen ai uses*
+ **Gen ai uses**
 
  
     -education
@@ -20,15 +20,17 @@
 |Gemini |coding ,analysis |
 |ChatGPT |creative witing ,problem solving |
 
+
 **pros and cons**
 
-    *pros*
+       **pros**
     
     - efficiancy and speed
     - availability
     -automation of repetetive work
     
-   *cons*
+   **cons**
+   
    
    -loss of jobs
    -bias and fairness
