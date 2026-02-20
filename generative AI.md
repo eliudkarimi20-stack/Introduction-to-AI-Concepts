@@ -1,6 +1,9 @@
-##Introduction to AI conceps
+##**Introduction to AI conceps**
+
 
 **Generative AI**
+
+
   this basically refers to models that create new contents
  *Gen ai uses*
     -education
