@@ -1,4 +1,4 @@
-**Introduction to AI conceps**
+##**Introduction to AI conceps**
 
 
 **Generative AI**
@@ -21,7 +21,7 @@
 |ChatGPT |creative witing ,problem solving |
 
 
-**pros and cons**
+  **pros and cons**
 
        **pros**
     
