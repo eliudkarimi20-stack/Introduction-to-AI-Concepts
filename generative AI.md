@@ -1,4 +1,4 @@
-##**Introduction to AI conceps**
+## **Introduction to AI conceps**
 
 
 **Generative AI**
@@ -25,9 +25,9 @@
 
        **pros**
     
-    - efficiancy and speed
-    - availability
-    -automation of repetetive work
+      - efficiancy and speed
+      - availability
+      -automation of repetetive work
     
    **cons**
    
