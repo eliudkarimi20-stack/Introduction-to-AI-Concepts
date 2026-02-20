@@ -20,10 +20,9 @@
 |Gemini |coding ,analysis |
 |ChatGPT |creative witing ,problem solving |
 
+   *pros and cons*
 
-    *pros and cons*
-
-      # ** pros **
+   ** pros **
     
          - efficiancy and speed
          - availability
