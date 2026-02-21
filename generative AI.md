@@ -22,6 +22,9 @@
 
    *pros and cons*
 
+  **pros and cons**
+
+   **pros**
  **pros**
     
          - efficiancy and speed
