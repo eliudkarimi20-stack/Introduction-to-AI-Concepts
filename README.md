@@ -23,6 +23,7 @@ what is neural networks-it is a computer system modeled after the human brain us
 *output layer*-produces the final results
 
 ###Types of neural networks
+
 *Artificial neural network(ann)-used for general prediction
 *Recurrent neural network*(RNN)-Ued for sequence data like texts and speeches
 *convolutional neural network*(cnn)-used for image recognition
@@ -33,6 +34,7 @@ what is neural networks-it is a computer system modeled after the human brain us
   - chatbots
   - fraud detection
   - voice assistants 
+
 
 
 
