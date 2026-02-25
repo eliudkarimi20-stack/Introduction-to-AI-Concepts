@@ -14,19 +14,23 @@ Machine learning is used in many everyday applications such as:
 - Voice assistants like Siri and Alexa
 
 ## Neural networks
-what is neural networks-it is a computer system modeled after the human brain used in artificial intelligenceto recognize pattern 
+what is neural networks-it is a computer system modeled after the human brain used in artificial intelligenceto recognize pattern
+
 **how neural networks work**
 *input layer*-receives data
 *hidden layer*-processes the data
-*output layer*-produces the final results 
+*output layer*-produces the final results
+
 ###Types of neural networks
 *Artificial neural network(ann)-used for general prediction
 *Recurrent neural network*(RNN)-Ued for sequence data like texts and speeches
 *convolutional neural network*(cnn)-used for image recognition
+
 ###where are neural networks used 
   - self-driving cars
   - medical diagonosis
   - chatbots
   - fraud detection
   - voice assistants 
+
 
