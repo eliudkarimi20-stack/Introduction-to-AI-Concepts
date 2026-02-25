@@ -19,4 +19,14 @@ what is neural networks-it is a computer system modeled after the human brain us
 *input layer*-receives data
 *hidden layer*-processes the data
 *output layer*-produces the final results 
-###Types of neural NET
+###Types of neural networks
+*Artificial neural network(ann)-used for general prediction
+*Recurrent neural network*(RNN)-Ued for sequence data like texts and speeches
+*convolutional neural network*(cnn)-used for image recognition
+###where are neural networks used 
+  - self-driving cars
+  - medical diagonosis
+  - chatbots
+  - fraud detection
+  - voice assistants 
+
