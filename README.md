@@ -13,10 +13,12 @@ Machine learning is used in many everyday applications such as:
 - Fraud detection in banking
 - Voice assistants like Siri and Alexa
 
-## Neural networks
+# Neural networks
+
 what is neural networks-it is a computer system modeled after the human brain used in artificial intelligenceto recognize pattern
 
 **how neural networks work**
+
 
 *input layer*-receives data
 *hidden layer*-processes the data
