@@ -36,7 +36,8 @@ what is neural networks-it is a computer system modeled after the human brain us
 *Recurrent neural network*(RNN)-Ued for sequence data like texts and speeches
 *convolutional neural network*(cnn)-used for image recognition
 
-##where are neural networks used 
+ #where are neural networks used 
+ 
 
      - self-driving cars
      - medical diagonosis
