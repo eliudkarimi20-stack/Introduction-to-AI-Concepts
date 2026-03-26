@@ -20,13 +20,15 @@ Machine learning is used in many everyday applications such as:
 what is neural networks-it is a computer system modeled after the human brain used in artificial intelligenceto recognize patt
 
 
-#how neural networks work 
+
+#-how neural networks work- 
 
 
 *input layer*-receives data
 *hidden layer*-processes the data
 *output layer*-produces the final results
 
+    
      #Types of neural networks
 
 
