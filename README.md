@@ -21,7 +21,7 @@ what is neural networks-it is a computer system modeled after the human brain us
 
 
 
-#-how neural networks work- 
+#  how neural networks work- 
 
 
 *input layer*-receives data
